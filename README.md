@@ -1,8 +1,9 @@
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
 
-![Screenshot 2025-01-24 211304](https://github.com/user-attachments/assets/f486112f-0021-4a61-a15e-7449655384c2)
+Olá, Bem vindo ao meu projeto de portfólio.
+
+<img src="https://github.com/user-attachments/assets/f486112f-0021-4a61-a15e-7449655384c2" alt="imagem do projeto">
 
 ## Ferramentas utilizadas:
 
@@ -18,4 +19,4 @@
 
 ### Linkedin: https://www.linkedin.com/in/lucas-almeida-2606b0337/
 
-```
+
